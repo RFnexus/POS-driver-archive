@@ -112,5 +112,7 @@ POS drivers:
 
 ```
 
-Other:
+Tested on Ubuntu 22.04.3 LTS
+
+Other CUPS drivers for Zijiang ZJ-58 and ZJ-80:
 https://github.com/klirichek/zj-58
