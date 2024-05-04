@@ -1,4 +1,4 @@
-POS drivers:
+POS drivers for thermal receipt printers for OpenCUPS
 ```
  POS-230H.ppd	   POS-D461E.ppd	   POS-T202UA.ppd
  POS-233B.ppd	   POS-D462B.ppd	   POS-T202UD.ppd
